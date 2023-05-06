@@ -21,14 +21,18 @@ We may use the information we collect to:
 - Enforce our policies: We may use your information to enforce our App policies and terms of use.
 
 Sharing Your Information
+
 We do not share your personal information with third parties, except as required by law. We may share anonymous usage and analytics information with third-party service providers, such as Firebase Analytics and AdMob.
 
 Security
+
 We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no transmission of data over the internet can be guaranteed to be 100% secure. Therefore, we cannot guarantee the security of any information you transmit to us through the App.
 
 Changes to This Privacy Policy
+
 We reserve the right to update this Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page. Your continued use of the App after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
 Contact Us
+
 If you have any questions or concerns about this Privacy Policy, please contact us at 
 christopher.marvel19@gmail.com
