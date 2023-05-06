@@ -1,5 +1,7 @@
 ## Privacy Policy for KawanSurya App
 
+This is an Android app developed by Christopher Marvel, Yusak Tanoto, & Hanny Tumbelaka
+
 At KawanSurya, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile application named KawanSurya (the "App").
 
 Information We Collect
@@ -47,3 +49,4 @@ We reserve the right to update this Privacy Policy at any time. We will notify y
 Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at 
+christopher.marvel19@gmail.com
