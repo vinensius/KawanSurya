@@ -6,5 +6,16 @@ KawanSurya adalah aplikasi analisis tekno-ekonomis rooftop PV untuk sistem On-Gr
 
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/teknis.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/eko.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalkulasi1.png" alt="Image 1" width="250">
 
+Kalkulasi PV output menggunakan rumus Homer Energy,2023 :
+
+<img src="https://github.com/vinensius/KawanSurya/blob/main/ss/rumuspvout.png" alt="Image 1" width="250">
+<img src="https://github.com/vinensius/KawanSurya/blob/main/ss/rumustc.png" alt="Image 1" width="250">
+
+Untuk derating factor KawanSurya menggunakan typical value (Sascha Lindig,Eurac Research, 2014):
+
+<img src="https://github.com/vinensius/KawanSurya/blob/main/ss/derating.png" alt="Image 1" width="250">
+
+Perhitungan investasi Net Savings dari pemasangan PV telah mencakup biaya O&amp;M, yang akan menjadi salah satu nilai dalam perhitungan payback period, NPV, dan ROI.
+
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalkulasi%202.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalkulasi3.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalukalsi4.png" alt="Image 1" width="250">
 
