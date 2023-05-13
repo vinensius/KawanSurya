@@ -3,6 +3,8 @@
 
 KawanSurya adalah aplikasi analisis tekno-ekonomis rooftop PV untuk sistem On-Grid. Dua unsur penting yang dapat mempengaruhi keputusan pemasangan rooftop PV  yaitu aspek teknis (potensi pemanfaatan energi listrik dari solar PV dibandingkan komsumsi energi listrik secara keseluruhan) dan aspek ekonomis (justifikasi kelayakan investasi dan regulasi ekspor energi listrik solar PV ke jaringan PLN).
 
+<a href='https://play.google.com/store/apps/details?id=com.christophermarvel.pvcalc'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200/></a>
+
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/home.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/beban.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/lokasi.png" alt="Image 1" width="250">
 
 - Parameter beban listrik akan menentukan besaran beban listrik yang dapat ditangani oleh output PV, beban listrik yang tidak tercakup oleh output PV, dan jumlah output PV yang diekspor kembali ke jaringan listrik.
