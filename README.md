@@ -2,38 +2,34 @@
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/graphfeat.png" alt="Image 1" width="750">
 <a href='https://play.google.com/store/apps/details?id=com.christophermarvel.pvcalc'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200/></a>
 
-KawanSurya merupakan sebuah aplikasi inovatif yang bertujuan untuk membantu individu di Indonesia membuat keputusan yang tepat tentang sistem PV atap. Aplikasi ini mempertimbangkan dua faktor penting yang dapat mempengaruhi keputusan untuk menginstall sistem PV atap: aspek teknis dan ekonomi.
+KawanSurya is an innovative application that aims to assist individuals in Indonesia in making informed decisions about rooftop PV systems. The application considers two important factors that can influence the decision to install a rooftop PV system: technical aspects and economic factors.
 
-Pertama-tama, KawanSurya menyediakan analisis rinci tentang aspek teknis dari sistem PV atap. Ini termasuk menilai potensi pemanfaatan energi listrik dari PV surya dibandingkan dengan konsumsi listrik secara keseluruhan. Aplikasi ini mempertimbangkan berbagai faktor seperti lokasi, orientasi, dan bayangan atap, serta efisiensi dan output dari panel surya yang digunakan. Dengan menganalisis faktor-faktor ini, KawanSurya dapat memberikan estimasi yang akurat tentang potensi output energi dan penghematan yang dapat dicapai melalui instalasi sistem PV atap.
+Firstly, KawanSurya provides detailed analysis of the technical aspects of a rooftop PV system. This includes assessing the potential electricity generation from solar PV compared to overall electricity consumption. The application takes into account various factors such as location, orientation, roof shading, as well as the efficiency and output of the solar panels used. By analyzing these factors, KawanSurya can provide accurate estimates of the energy output potential and savings that can be achieved through the installation of a rooftop PV system.
 
-Kedua, KawanSurya mengevaluasi kelayakan ekonomi investasi dalam sistem PV atap. Ini termasuk menganalisis biaya instalasi sistem, serta tingkat pengembalian investasi yang diharapkan dari waktu ke waktu. Aplikasi ini mempertimbangkan berbagai metrik keuangan seperti periode pengembalian modal, NPV, ROI. Selain itu, KawanSurya mengevaluasi regulasi untuk mengekspor listrik PV surya ke jaringan PLN, memastikan bahwa pengguna menyadari adanya hambatan atau insentif regulasi yang dapat mempengaruhi kelayakan ekonomi investasi mereka.
+Secondly, KawanSurya evaluates the economic feasibility of investing in a rooftop PV system. This includes analyzing the installation costs, as well as the expected return on investment over time. The application considers various financial metrics such as payback period, net present value (NPV), and return on investment (ROI). Additionally, KawanSurya assesses the regulations regarding exporting solar PV electricity to the PLN grid, ensuring that users are aware of any regulatory barriers or incentives that may affect the economic feasibility of their investment.
 
-Secara keseluruhan, KawanSurya menyediakan analisis teknologi-ekonomi yang komprehensif tentang sistem PV atap di sistem On-Grid di Indonesia. Dengan mempertimbangkan aspek teknis dan ekonomi investasi, KawanSurya dapat membantu pengguna membuat keputusan yang tepat tentang instalasi sistem PV atap, memastikan bahwa mereka tidak hanya berkelanjutan secara lingkungan tetapi juga layak secara finansial.
-
+Overall, KawanSurya provides a comprehensive techno-economic analysis of rooftop PV systems in the On-Grid system in Indonesia. By considering both the technical and economic aspects of the investment, KawanSurya can help users make informed decisions about installing a rooftop PV system, ensuring that they are not only environmentally sustainable but also financially viable.
 
 
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/home.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/beban.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/lokasi.png" alt="Image 1" width="250">
 
-- Parameter beban listrik akan menentukan besaran beban listrik yang dapat ditangani oleh output PV, beban listrik yang tidak tercakup oleh output PV, dan jumlah output PV yang diekspor kembali ke jaringan listrik.
+-The load parameter will determine the amount of electrical load that can be handled by the PV system's output, the load that is not covered by the PV system's output, and the amount of PV output that is exported back to the grid.
 
-- Parameter lokasi akan menentukan tingkat radiasi matahari yang ada di lokasi yang telah ditentukan oleh pengguna. Data radiasi matahari diambil dari database 2005-2016 PVGIS-SARAH yang juga memperhitungkan profil horizon. Radiasi matahari dan output PV akan berubah jika terdapat bukit atau gunung yang menghalangi sinar matahari pada beberapa periode dalam sehari. PVGIS dapat menghitung efek ini dengan menggunakan data tentang elevasi tanah. Namun, perhitungan ini tidak memperhitungkan bayangan dari benda-benda yang sangat dekat seperti rumah atau pohon.
+-The location parameter will determine the level of solar radiation present at the user-specified location. Solar radiation data is obtained from the 2005-2016 PVGIS-SARAH database, which also takes into account the horizon profile. Solar radiation and PV output will vary if there are hills or mountains obstructing sunlight during certain periods of the day. PVGIS can calculate this effect using elevation data. However, this calculation does not consider shading from nearby objects such as buildings or trees.
 
-- Parameter Teknis memungkinkan pengguna untuk menentukan beberapa spesifikasi sistem rooftop PV yang akan dipasang, dan ini sangat membantu KawanSurya dalam menghitung output rooftop PV serta perhitungan investasi rooftop PV.
+-The technical parameter allows users to specify several specifications of the rooftop PV system to be installed, and this greatly helps KawanSurya in calculating the rooftop PV output and investment calculations.
 
-- Parameter Ekonomis memungkinkan pengguna untuk menentukan spesifikasi sistem rooftop PV dari yang akan dipasang segi ekonomi, dan ini sangat membantu KawanSurya dalam menghitung perhitungan investasi rooftop PV.
+-The economic parameter allows users to determine the economic specifications of the rooftop PV system to be installed, and this greatly helps KawanSurya in calculating the investment calculations for the rooftop PV system.
 
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/teknis.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/eko.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalkulasi1.png" alt="Image 1" width="250">
 
-Kalkulasi PV output menggunakan rumus Homer Energy,2023 :
+Calculating PV output using the Homer Energy formula:
 
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/rumuspvout.png" alt="Image 1" width="250">
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/rumustc.png" alt="Image 1" width="250">
 
-Untuk derating factor KawanSurya menggunakan typical value (Sascha Lindig,Eurac Research, 2014):
 
-<img src="https://github.com/vinensius/KawanSurya/blob/main/ss/derating.png" alt="Image 1" width="250">
-
-Perhitungan investasi Net Savings dari pemasangan PV telah mencakup biaya O&amp;M, yang akan menjadi salah satu nilai dalam perhitungan payback period, NPV, dan ROI.
+Calculation  Preview
 
 <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalkulasi%202.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalkulasi3.png" alt="Image 1" width="250"> <img src="https://github.com/vinensius/KawanSurya/blob/main/ss/kalukalsi4.png" alt="Image 1" width="250">
 
